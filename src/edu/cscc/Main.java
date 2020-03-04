@@ -2,7 +2,7 @@ package edu.cscc;
 import java.util.*;
 
 /**
- * @author Michael McClain
+ * @author Michael McClain 3/3/2020 Learning how to push work to github.
  */
 public class Main {
 
